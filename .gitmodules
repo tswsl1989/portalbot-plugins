@@ -1,0 +1,12 @@
+[submodule "definitions"]
+	path = Definitions
+	url = git@github.com:tswsl1989/portalbot-definitions.git
+	branch = master
+[submodule "LHC"]
+	path = LHC
+	url = https://github.com/abmorris/Supybot-LHC
+	branch = master
+[submodule "Twitter"]
+	path = Twitter
+	url = git@github.com:tswsl1989/portalbot-twitter.git
+	branch = master
